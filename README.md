@@ -1,5 +1,7 @@
 # rfq-ontology
 
+> **Archived (Nov 5, 2026).** This ontology now lives in [`ontology/`](https://github.com/supergus/pla-agents/tree/main/ontology) of [supergus/pla-agents](https://github.com/supergus/pla-agents) (formerly `rfq-agents`), with its history and CI checks. This repo is read-only. OWL IRIs under `https://supergus.github.io/rfq-ontology/` are unchanged.
+
 A tutorial-grade, OWL 2 DL toy ontology for a manufacturing **RFQ-to-quote** process,
 managed in GitHub with a PR process and CI. It is a teaching project on data ontology
 for orchestrated agentic systems: agents that ingest an RFQ, check it, build a BOM,
