@@ -1,5 +1,8 @@
 # rfq-ontology
 
+**Repo map for auditors:** [REPO-GUIDE.md](REPO-GUIDE.md) — every tracked file. Prefer the live copy under `pla-agents/ontology/`.
+
+
 > **Archived (Nov 5, 2026).** This ontology now lives in [`ontology/`](https://github.com/supergus/pla-agents/tree/main/ontology) of [supergus/pla-agents](https://github.com/supergus/pla-agents) (formerly `rfq-agents`), with its history and CI checks. This repo is read-only. OWL IRIs under `https://supergus.github.io/rfq-ontology/` are unchanged.
 
 A tutorial-grade, OWL 2 DL toy ontology for a manufacturing **RFQ-to-quote** process,
